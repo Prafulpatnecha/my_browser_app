@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ###
 <h1></h1>
-<h3 align="center"><i>Platform Converter</i></h3>
+<h3 align="center"><i>My Browser App</i></h3>
 <h1></h1>
 <div align="center">
 <img src="https://github.com/Prafulpatnecha/my_browser_app/blob/main/img1.png" height=450px hspace=20>
